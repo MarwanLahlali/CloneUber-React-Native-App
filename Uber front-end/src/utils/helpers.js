@@ -6,13 +6,13 @@ import PolyLine from "@mapbox/polyline";
 export const prefix = Platform.OS === "andoid" ? "ios" : "md";
 
 const config =  {
-  iosClientId: `385853318396-ng0nv1emsi2nukad15j8hmkdj0o932fu.apps.googleusercontent.com`,
-  androidClientId: `385853318396-04r8em8j1b7dcbknltsc1hvdjd5n7i7l.apps.googleusercontent.com`,
+  iosClientId: `***************************************`,
+  androidClientId: ``***************************************`,`,
   iosStandaloneAppClientId: `<YOUR_IOS_CLIENT_ID>`,
   androidStandaloneAppClientId: `<YOUR_ANDROID_CLIENT_ID>`,
 }
 
-export const API_KEY = 'AIzaSyCIhvPLaGWlM99hNjP-lIFZiUHNEPCPPb4'
+export const API_KEY = 'YourApiKey'
 
 export const whiteMapStyle = [
   {
